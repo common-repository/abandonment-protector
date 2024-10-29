@@ -1,0 +1,1 @@
+var abp_vars_loaded = true;
